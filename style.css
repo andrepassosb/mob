@@ -1,0 +1,12 @@
+@keyframes keyframe-mob-ijkhlm {
+  0% {
+    transform: translateX(0px) rotate(0deg);
+  }
+  100% {
+    transform: translateX(200px) rotate(360deg);
+  }
+}
+.keyframe-mob-ijkhlm {
+  animationName: keyframe-mob-ijkhlm;
+  animationDuration: 2s;
+}

@@ -1,0 +1,15 @@
+@keyframes slide-in {
+    0% {
+      transform: translateX(0) rotate(0deg);
+    }
+  
+    100% {
+      transform: translateX(200px) rotate(360deg);
+    }
+  }
+
+.ijkhlm {
+    animation-name: slide-in;
+    animation-fill-mode: forwards;
+    animation-duration: 2s;
+}

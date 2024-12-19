@@ -1,0 +1,19 @@
+@keyframes keyframe-mob-1iiuqoy {
+  31% {
+    transform: translateX(0px) translateY(0px) rotate(360deg) ;
+    background-color: red;
+  }
+  54% {
+    transform: translateX(200px) translateY(200px) rotate(900deg) ;
+    background-color: green;
+  }
+  100% {
+    transform: translateX(0px) translateY(0px) rotate(360deg) ;
+    background-color: blue;
+  }
+}
+.mob-1iiuqoy {
+  animation-name: keyframe-mob-1iiuqoy;
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+}
